@@ -1,5 +1,5 @@
 <div align="center" >
-### 👋 Alex's GitHub Profile 👋
+  <h3> 👋 Alex's GitHub Profile 👋 </h3>
 </div>
 
 - Hey there, my name is Alex(andra) and I am an alumni from LeWagon in Web Development ✨

@@ -24,6 +24,6 @@ Now I live in FRANCE 🇫🇷 , and I am seeking a job in the Tech Industry lean
 🌎 My Languages 🌎
 🇺🇸 English: Bilingual 
 🇫🇷 French: Native
-:flag-ph: Filipino: Fluent
+:ph: Filipino: Fluent
 :it: Italian : Novice
 🇲🇽 Spanish: Novice
